@@ -10,7 +10,8 @@ For those familiar with AWS. Lambda code is in **index.js** and you'll need to s
 1. Git clone the repo or download the whole thing from the release page
 
 2. Create Lambda function using **index.js** file with following environment variables
-   * elasticsearchurl	=> http or https URL of Elasticsearch server which is accessible within VPC
+   * *elasticsearchurl :* http or https URL of Elasticsearch server which is accessible within VPC
+   
    ![S3config](/images/image2.png)
 
 3. Go to SNS service and perform following steps : 
