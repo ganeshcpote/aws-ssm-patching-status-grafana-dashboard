@@ -1,5 +1,8 @@
 # AWS SSM Grafana Dashboard
 
+## Architecture Overview
+![kibanaImport](/images/image1.png)
+
 ## Installation and Usage instructions
 For those familiar with AWS. Lambda code is in **index.js** and you'll need to setup an event trigger on SNS topic which is configured in System Manager for configuring maintenance window task to call the Lambda function. Then visit the Grafana interface and import the **/dashboard/grafana-dashboard-export.json** file which imports the dashboard and all the required searches/virtualizations
 
@@ -8,6 +11,7 @@ For those familiar with AWS. Lambda code is in **index.js** and you'll need to s
 
 2. Create Lambda function using **index.js** file with following environment variables
    * elasticsearchurl	=> http or https URL of Elasticsearch server which is accessible within VPC
+   ![S3config](/images/image2.png)
 
 3. Go to SNS service and perform following steps : 
    * create new SNS Topic 
