@@ -1,1 +1,1 @@
-# aws-ssm-grafana-dashboard
+# AWS SSM Grafana Dashboard
