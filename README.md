@@ -30,8 +30,8 @@ For those familiar with AWS. Lambda code is in **index.js** and you'll need to s
 ![kibanaImport](/images/image3.png)
 
 4. If all goes successfully you should see the following saved objects post the import. You can now go and view your dashboard by going to **Dashboard** selecting **open** and selecting **SSM-Patching-Status-Dashboard**
-  <img src="/images/image4.png" height="606px" width="1283px">
+  <img src="/images/image4.png" width="1283px">
  
-  <img src="/images/image5.png" height="606px" width="1283px">
+  <img src="/images/image5.png"  width="1283px">
 
-  <img src="/images/image6.png" height="606px" width="1283px">
+  <img src="/images/image6.png" width="1283px">
