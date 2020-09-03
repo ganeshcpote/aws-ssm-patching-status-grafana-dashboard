@@ -33,3 +33,5 @@ For those familiar with AWS. Lambda code is in **index.js** and you'll need to s
   ![GrafanaPostImport](/images/image4.png)
 
   ![GrafanaPostImport](/images/image5.png)
+  
+  ![GrafanaPostImport](/images/image6.png)
