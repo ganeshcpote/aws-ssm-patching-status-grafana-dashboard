@@ -36,3 +36,6 @@ For those familiar with AWS. Lambda code is in **index.js** and you'll need to s
   <img src="/images/image5.png"  width="1283px">
 
   <img src="/images/image6.png" width="1283px">
+  
+  When you click Instance ID name, then you will be redirected to another dashboard to see detailed vulnerability status.
+  <img src="/images/image7.png" width="1283px">
