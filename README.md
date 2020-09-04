@@ -27,7 +27,7 @@ For those familiar with AWS. Lambda code is in **index.js** and you'll need to s
 ### Part 2: Setting up the dashboard
 1. Now you can visit your Grafana URL
 
-2. Click import and select the **/dashboard/grafana-dashboard-export.json** file.
+2. Click import and select the **/dashboard/grafana-dashboard-export.json** and **/dashboard/vulnerability-status.json** files.
 ![kibanaImport](/images/image3.png)
 
 4. If all goes successfully you should see the following saved objects post the import. You can now go and view your dashboard by going to **Dashboard** selecting **open** and selecting **SSM-Patching-Status-Dashboard**
