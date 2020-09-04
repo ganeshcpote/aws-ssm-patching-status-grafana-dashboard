@@ -15,7 +15,7 @@ For those familiar with AWS. Lambda code is in **index.js** and you'll need to s
    ![S3config](/images/image2.png)
 
 3. Go to SNS service and perform following steps : 
-   * create new SNS Topic 
+   * Create new SNS Topic 
    * Add new subscription as Lambda Endpoint for Lambda function created in above step
 
 4. Go to System Manager service and perform following steps :
@@ -38,4 +38,5 @@ For those familiar with AWS. Lambda code is in **index.js** and you'll need to s
   <img src="/images/image6.png" width="1283px">
   
   When you click Instance ID name, then you will be redirected to another dashboard to see detailed vulnerability status.
+  
   <img src="/images/image7.png" width="1283px">
