@@ -1,4 +1,4 @@
-# AWS SSM Patching Status Grafana Dashboard
+# AWS System Manage Agent Patching and compliance dashboard with historical trend
 
 ## Architecture Overview
 ![kibanaImport](/images/image1.png)
